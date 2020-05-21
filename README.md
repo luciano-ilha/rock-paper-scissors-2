@@ -2,6 +2,9 @@
 
 > A Rock, paper, scissors game created wit HTML, CSS3 and JavaScript.
 
+
+
+
 ![Screenshot](images/screenshot.png)
 
 
