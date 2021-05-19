@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-> A game of rock, paper and scissors. Just choose your move and it will return if you lose or win against a random choice. It also has a scoreboard so you can see who is winning overall. Built with HTML, CSS3 and JavaScript.</br></br>
+> A game of rock, paper, scissors. Just choose your move and the game will let you know whether you've won or lost against a random choice. The app includes a scoreboard so you can see who is winning overall. Built with HTML, CSS3 and JavaScript.</br></br>
 
 ![Screenshot](images/screenshot.png)
 
