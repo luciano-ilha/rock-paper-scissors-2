@@ -14,7 +14,7 @@
 
 
 # Live Demo #
-[Live Demo Link](https://rawcdn.githack.com/luciano-ilha/rock-paper-scissors-2/6dd653a69169b23a95e36609a20abd5b04aee5a3/index.html)
+[Live Demo Link](https://blissful-pasteur-eda4e7.netlify.app/)
 
 
  # Prerequisites #
