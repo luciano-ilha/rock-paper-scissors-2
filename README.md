@@ -14,7 +14,7 @@
 
 
 # Live Demo #
-[Live Demo Link](https://blissful-pasteur-eda4e7.netlify.app/)
+[Live Demo Link](https://beesmart-rockpaperscissors.netlify.app/)
 
 
  # Prerequisites #
